@@ -1,0 +1,12 @@
+<resources>
+	<string name="app_name">HebeWork</string>
+	<string name="action_settings">Settings</string>
+	<string name="activity_coordinator_test">Coordinator布局测试</string>
+	<string name="card_view_demo">卡片ViewDemo</string>
+	<string name="progress_demo">Progress Demo</string>
+	<string name="info">Info</string>
+	<string name="demo">加油吧!小恶魔,做一个勇敢的开拓者</string>
+	<string name="detail_content">为了使用上面的布局方式来创建一个卡片，首先你需要导入支持的依赖库（android-support-v7-cardview的jar包）在你的build.gradle文件中
+	就是这样！使用依赖库能够保证你的程序稳定的兼容之前的版本；尽管在AndroidL和之前的Android版本中对其处理方式有所不同</string>
+	<string name="glide_dmo">Glide Demo</string>
+</resources>
